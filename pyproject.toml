@@ -1,0 +1,10 @@
+[project]
+name = "devices-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "paramiko>=4.0.0",
+    "pysnmp>=4.4.12",
+]
